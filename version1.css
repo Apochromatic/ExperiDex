@@ -1,0 +1,17 @@
+div {
+	display: inline-block;
+	margin-left: 5px;
+	height: 100px;
+	width: 100px;
+	border-radius: 20px;
+	border: 2px solid black;
+	
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius:100%
+    }
+h5 {
+	font-size: 11px;
+}
